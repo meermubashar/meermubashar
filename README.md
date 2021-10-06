@@ -60,6 +60,10 @@
 
 ---
 
+![snake gif](https://github.com/meermubashar/meermubashar/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ![Hits](https://hits.link/hits?url=https://github.com/meermubashar&bgRight=002d41&label=Visits)
 
 [twitter]: https://twitter.com/meermubashar?target=_blank 
