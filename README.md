@@ -1,4 +1,4 @@
-## Hey , I'm [<img alt="meermubashar | Website" width="200px" src="https://user-images.githubusercontent.com/36998183/136440688-4fcc8126-8054-4e97-aee9-a4ef12aa8af5.png">][website] <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Hey , I'm [<img alt="meermubashar | Website" width="300px" src="https://user-images.githubusercontent.com/36998183/136440688-4fcc8126-8054-4e97-aee9-a4ef12aa8af5.png">][website] <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/meermubashar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmeermubashar&screen_name=meermubashar)
 
