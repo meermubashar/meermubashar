@@ -52,7 +52,7 @@
 
 ---
 
-[![Visits](https://hits.link/hits?url=https://github.com/meermubashar&bgRight=002d41&label=Visits)][Visits]
+[![Visits](https://hits.link/hits?url=https://github.com/meermubashar&bgLeft=002d41&label=Visits)][Visits]
 
 [website]: https://meermubashar.com?target=_blank 
 [twitter]: https://twitter.com/meermubashar?target=_blank 
