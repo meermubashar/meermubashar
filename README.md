@@ -14,11 +14,9 @@
 [![](https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9)](https://www.instagram.com/meermubashar/)
 [![](https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=3b5998)](https://www.facebook.com/meermubasharofficial/)
 
-<br />
-
 ---
 
-### Languages and Tools:
+## Languages and Tools
 
 <img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/36998183/135925505-92448181-d3fe-4cbc-b87a-c830d624439b.png" />
 <img align="left" alt="CSS3" width="26px" src=
@@ -36,15 +34,6 @@
 <img align="left" alt="WordPress" width="26px" src="https://user-images.githubusercontent.com/36998183/135926960-72259577-506c-4034-8478-7ea6f2bfd226.png" />
 
 <br /> <br />
-
-<img align="left" alt="Elementor" width="26px" src="https://user-images.githubusercontent.com/36998183/135927006-1b44facc-1d9c-4a83-969c-9f62eb6d50f2.png" />
-<img align="left" alt="Photoshop" width="26px" src="https://user-images.githubusercontent.com/36998183/135927050-0a8a2ce7-352d-4274-be0f-e80f4cd6d251.png" />
-<img align="left" alt="Illustrator" width="26px" src="https://user-images.githubusercontent.com/36998183/135927081-285b5ec6-fe87-4fe7-812f-fe77ce29562b.png" />
-<img align="left" alt="Premiere" width="26px" src="https://user-images.githubusercontent.com/36998183/135927113-d69d30b2-9e86-4a0d-98c0-d5dc50e1af22.png" />
-<img align="left" alt="Xd" width="26px" src="https://user-images.githubusercontent.com/36998183/135927160-9163f642-7097-450d-9494-7cb93f8637b0.png" />
-
-<br />
-
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meermubashar&layout=compact&theme=radical)
