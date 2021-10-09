@@ -9,10 +9,10 @@
 ---
 ## Let's Connect 🔗
 
-[<img align="left" alt="meermubashar | Twitter" width="22px" src="https://user-images.githubusercontent.com/75170699/133462473-c51016f8-4916-426f-8461-b3ecdc73f88c.png" />][twitter]
-[<img align="left" alt="meermubashar | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/75170699/133462567-7e4cde05-e2f1-446e-8b0a-f548eeea27b4.png" />][linkedin]
-[<img align="left" alt="meermubashar | Instagram" width="22px" src="https://user-images.githubusercontent.com/75170699/133462726-4df3b78e-3212-4eaf-ae51-e1f7c968ada3.png" />][instagram]
-[<img align="left" alt="meermubashar | Facebook" width="22px" src="https://user-images.githubusercontent.com/75170699/133463747-de8640f3-c61e-44c6-ae4e-89e1a590d33c.png" />][facebook]
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meermubashar/)
+[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/meermubashar) 
+[![](https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9)](https://www.instagram.com/meermubashar/)
+[![](https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=3b5998)](https://www.facebook.com/meermubasharofficial/)
 
 <br />
 
