@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 ---
-### Connect with me:
+## Let's Connect 🔗
 
 [<img align="left" alt="meermubashar | Twitter" width="22px" src="https://user-images.githubusercontent.com/75170699/133462473-c51016f8-4916-426f-8461-b3ecdc73f88c.png" />][twitter]
 [<img align="left" alt="meermubashar | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/75170699/133462567-7e4cde05-e2f1-446e-8b0a-f548eeea27b4.png" />][linkedin]
