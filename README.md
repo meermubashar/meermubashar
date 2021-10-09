@@ -52,10 +52,11 @@
 
 ---
 
-![Hits](https://hits.link/hits?url=https://github.com/meermubashar&bgRight=002d41&label=Visits)
+[![Visits](https://hits.link/hits?url=https://github.com/meermubashar&bgRight=002d41&label=Visits)][Visits]
 
 [website]: https://meermubashar.com?target=_blank 
 [twitter]: https://twitter.com/meermubashar?target=_blank 
 [instagram]: https://www.instagram.com/meermubashar/?target=_blank 
 [linkedin]: https://www.linkedin.com/in/meermubashar/?target=_blank 
 [facebook]: https://www.facebook.com/MeerMubasharOfficial/?target=_blank 
+[Visits]: https://github.com/meermubashar
