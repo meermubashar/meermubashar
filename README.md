@@ -6,7 +6,9 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
+
 ---
+
 ## Let's Connect 🔗
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meermubashar/)
@@ -36,15 +38,15 @@
 <br /> <br />
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meermubashar&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meermubashar&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-![Meer's GitHub stats](https://github-readme-stats.vercel.app/api?username=meermubashar&show_icons=true&theme=radical)
+![Meer's GitHub stats](https://github-readme-stats.vercel.app/api?username=meermubashar&show_icons=true&theme=radical&hide_border=true)
 
 ---
 
-![Meer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=meermubashar&theme=radical)
+![Meer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=meermubashar&theme=radical&hide_border=true)
 
 ---
 
