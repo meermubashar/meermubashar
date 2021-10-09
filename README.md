@@ -36,6 +36,7 @@
 <img align="left" alt="WordPress" width="26px" src="https://user-images.githubusercontent.com/36998183/135926960-72259577-506c-4034-8478-7ea6f2bfd226.png" />
 
 <br /> <br />
+
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meermubashar&layout=compact&theme=radical&hide_border=true)
@@ -50,7 +51,7 @@
 
 ---
 
-![snake gif](https://github.com/meermubashar/meermubashar/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/meermubashar/meermubashar/blob/output/github-contribution-grid-snake.gif)
 
 ---
 
