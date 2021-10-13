@@ -11,10 +11,10 @@
 
 ## Let's Connect 🔗
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=006192)](https://www.linkedin.com/in/meermubashar/)
-[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/meermubashar) 
-[![](https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9)](https://www.instagram.com/meermubashar/)
-[![](https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=3b5998)](https://www.facebook.com/meermubasharofficial/)
+[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2)][twitter]
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=006192)][linkedin]
+[![](https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9)][instagram]
+[![](https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=3b5998)][facebook]
 
 ---
 
@@ -39,27 +39,28 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meermubashar&layout=compact&theme=radical&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meermubashar&layout=compact&theme=radical&hide_border=true)][Github]
 
 ---
 
-![Meer's GitHub stats](https://github-readme-stats.vercel.app/api?username=meermubashar&show_icons=true&theme=radical&hide_border=true)
+[![Meer's GitHub stats](https://github-readme-stats.vercel.app/api?username=meermubashar&show_icons=true&theme=radical&hide_border=true)][Github]
 
 ---
 
-![Meer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=meermubashar&theme=radical&hide_border=true)
+[![Meer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=meermubashar&layout=compact&theme=radical&hide_border=true)][Github]
 
 ---
 
-![snake gif](https://github.com/meermubashar/meermubashar/blob/output/github-contribution-grid-snake.gif)
+[![snake gif](https://github.com/meermubashar/meermubashar/blob/output/github-contribution-grid-snake.gif)][Github]
 
 ---
 
 [![Visits](https://hits.link/hits?url=https://github.com/meermubashar&bgLeft=002d41&label=Visits)][Visits]
 
-[website]: https://meermubashar.com?target=_blank 
-[twitter]: https://twitter.com/meermubashar?target=_blank 
-[instagram]: https://www.instagram.com/meermubashar/?target=_blank 
-[linkedin]: https://www.linkedin.com/in/meermubashar/?target=_blank 
-[facebook]: https://www.facebook.com/MeerMubasharOfficial/?target=_blank 
-[Visits]: https://github.com/meermubashar
+[website]: https://meermubashar.com?target=_blank
+[twitter]: https://twitter.com/meermubashar?target=_blank
+[linkedin]: https://www.linkedin.com/in/meermubashar/?target=_blank
+[instagram]: https://www.instagram.com/meermubashar/?target=_blank
+[facebook]: https://www.facebook.com/MeerMubasharOfficial/?target=_blank
+[Visits]: https://hits.link/?target=_blank
+[Github]: https://github.com/meermubashar
