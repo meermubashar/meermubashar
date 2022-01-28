@@ -61,6 +61,6 @@
 [twitter]: https://twitter.com/meermubashar?target=_blank
 [linkedin]: https://www.linkedin.com/in/meermubashar/?target=_blank
 [instagram]: https://www.instagram.com/meermubashar/?target=_blank
-[facebook]: https://www.facebook.com/MeerMubasharOfficial/?target=_blank
+[facebook]: https://www.facebook.com/MrMeerMubashar/?target=_blank
 [Visits]: https://hits.link/?target=_blank
 [Github]: https://github.com/meermubashar
