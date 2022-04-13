@@ -1,7 +1,7 @@
-# Hey , I'm [<img alt="meermubashar | Website" width="280px" src="https://user-images.githubusercontent.com/36998183/136440688-4fcc8126-8054-4e97-aee9-a4ef12aa8af5.png">][website] <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Hey <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm [<img alt="meermubashar | Website" width="280px" src="https://user-images.githubusercontent.com/36998183/136440688-4fcc8126-8054-4e97-aee9-a4ef12aa8af5.png">][Website]
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/meermubashar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmeermubashar&screen_name=meermubashar)
-
+  
 ## I write code, build websites, and share ideas.
 
 - 🌱 I’m currently learning everything 🤣
@@ -11,10 +11,10 @@
 
 ## Let's Connect 🔗
 
-[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2)][twitter]
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=006192)][linkedin]
-[![](https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9)][instagram]
-[![](https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=3b5998)][facebook]
+[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2)][Twitter]
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=006192)][Linkedin]
+[![](https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9)][Instagram]
+[![](https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=3b5998)][Facebook]
 
 ---
 
@@ -47,7 +47,15 @@
 
 ---
 
+[![Statistics](https://github-readme-streak-stats.herokuapp.com/?user=meermubashar&theme=radical&hide_border=true)][Github]
+
+---
+
 [![Meer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=meermubashar&layout=compact&theme=radical&hide_border=true)][Github]
+
+---
+
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=meermubashar&theme=radical&hide_border=true)][Github]
 
 ---
 
@@ -55,12 +63,12 @@
 
 ---
 
-[![Visits](https://hits.link/hits?url=https://github.com/meermubashar&bgLeft=002d41&label=Visits)][Visits]
+[![Visits](https://hits.link/hits?url=https://github.com/meermubashar&bgLeft=1F4147&bgRight=1B2A32&color=&label=Visits)][Visits]
 
-[website]: https://meermubashar.com?target=_blank
-[twitter]: https://twitter.com/meermubashar?target=_blank
-[linkedin]: https://www.linkedin.com/in/meermubashar/?target=_blank
-[instagram]: https://www.instagram.com/meermubashar/?target=_blank
-[facebook]: https://www.facebook.com/MrMeerMubashar/?target=_blank
+[Website]: https://meermubashar.com?target=_blank
+[Twitter]: https://twitter.com/MeerMubashar?target=_blank
+[Linkedin]: https://www.linkedin.com/in/meermubashar/?target=_blank
+[Instagram]: https://www.instagram.com/meermubashar/?target=_blank
+[Facebook]: https://www.facebook.com/MrMeerMubashar/?target=_blank
 [Visits]: https://hits.link/?target=_blank
-[Github]: https://github.com/meermubashar
+[Github]: https://github.com/meermubashar/
