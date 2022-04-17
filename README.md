@@ -63,7 +63,7 @@
 
 ---
 
-[![Visits](https://hits.link/hits?url=https://github.com/meermubashar&bgLeft=1F4147&bgRight=1B2A32&color=&label=Visits)][Visits]
+[![Visits](https://hits.link/hits?url=https://github.com/meermubashar&bgRight=007ec6&color=&label=Visits)][Visits]
 
 [Website]: https://meermubashar.com?target=_blank
 [Twitter]: https://twitter.com/MeerMubashar?target=_blank
